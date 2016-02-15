@@ -1,0 +1,1 @@
+A fully customizable typing game, allowing users to select whether they type letters or words, which letters (and punctuation marks) to use, use a custom dictionary, enable advanced options for speed and scoring.
